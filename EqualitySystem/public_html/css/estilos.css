@@ -14,3 +14,10 @@ body{
     background-image: url(../imagem/pf.png);
     background-repeat: no-repeat;
 }
+
+.vcenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
